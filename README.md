@@ -31,7 +31,9 @@ I am a passionate student with a strong focus on machine learning, deep learning
 - Explainable AI (SHAP)
 - Generative AI and Large Language Models (LLMs)
 - Natural Language Processing (NLP)
-- AI Agents and AI Engineering
+- AI Agents
+- AI Engineering
+- and more skills
 
 ---
 
