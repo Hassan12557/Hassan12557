@@ -19,8 +19,12 @@
 - I focus on **predictive modelling, ML pipelines, and full-stack deployment**.
 - I do not stop at notebooks. I ship models as **REST APIs**, wrap them in **Docker**, and deploy them to the **cloud**.
 - I care about **model judgment**, not just metrics. In my churn project I rejected a 0.99 AUC model after finding data leakage.
-- Currently learning: **model monitoring, explainable AI (SHAP), and MLOps**.
-
+- Currently learning: ### Currently Learning and Upskilling
+- Model Monitoring and MLOps
+- Explainable AI (SHAP)
+- Generative AI and Large Language Models (LLMs)
+- Natural Language Processing (NLP)
+- AI Agents and AI Engineering
 ---
 
 ## Tech Stack
