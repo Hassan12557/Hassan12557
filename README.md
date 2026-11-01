@@ -173,7 +173,7 @@ A containerised full-stack ML app that predicts customer personas from engagemen
 
 I'm open to **Data Scientist** and **ML Engineer** roles and collaborations.
 
-- Email: muhammadhassanrazabscs@gmail.com
+- Email: muhammadhassanraza659@gmail.com
 - LinkedIn: [muhammad-hassan-raza](https://www.linkedin.com/in/muhammad-hassan-raza-999553262/)
 
 <p align="center"><i>Thanks for visiting. Star a repo if you like it!</i></p>
