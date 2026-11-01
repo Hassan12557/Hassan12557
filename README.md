@@ -2,29 +2,37 @@
 
 <p align="center">
   <b>Data Scientist | Machine Learning Engineer | Full-Stack ML Deployment</b><br>
-  Building ML systems that go from raw data to live, containerised cloud applications.
+  Exploring the Future of AI, Machine Learning & Data Science 🚀
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-hassan-raza-999553262/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:muhammadhassanrazabscs@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://github.com/Hassan12557"><img src="https://img.shields.io/badge/GitHub-Hassan12557-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="YOUR_MEDIUM_LINK_HERE"><img src="https://img.shields.io/badge/Medium-Machine%20Civilization-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Machine Civilization on Medium"></a>
 </p>
 
 ---
 
 ## About Me
 
-- BSc Computer Science student at **Sukkur IBA University** (Aug 2021 - Dec 2025), based in Sukkur, Pakistan.
+My name is **Muhammad Hassan Raza**, a Computer Science Graduate at **Sukkur IBA University** | Exploring the Future of AI, Machine Learning & Data Science 🚀
+
+I am a passionate student with a strong focus on machine learning, deep learning, data analysis, and data science. I'm driven by curiosity and a commitment to mastering the core technologies shaping the future of artificial intelligence. I actively pursue knowledge in cutting-edge AI developments, and I'm engaged in exploring real-world applications of intelligent systems. My journey includes hands-on projects, research, and continuous learning to stay ahead in the evolving landscape of AI and data-driven innovation. Let's connect and shape the future of intelligent technologies together!
+
+- Based in Sukkur, Pakistan (BSc Computer Science, Aug 2021 - Dec 2025).
 - I focus on **predictive modelling, ML pipelines, and full-stack deployment**.
 - I do not stop at notebooks. I ship models as **REST APIs**, wrap them in **Docker**, and deploy them to the **cloud**.
 - I care about **model judgment**, not just metrics. In my churn project I rejected a 0.99 AUC model after finding data leakage.
-- Currently learning: ### Currently Learning and Upskilling
+- I write about AI on my Medium publication, **Machine Civilization**.
+
+### Currently Learning and Upskilling
 - Model Monitoring and MLOps
 - Explainable AI (SHAP)
 - Generative AI and Large Language Models (LLMs)
 - Natural Language Processing (NLP)
 - AI Agents and AI Engineering
+
 ---
 
 ## Tech Stack
@@ -153,6 +161,17 @@ A containerised full-stack ML app that predicts customer personas from engagemen
 
 ---
 
+## Writing: Machine Civilization
+
+<a href="YOUR_MEDIUM_LINK_HERE"><img src="https://img.shields.io/badge/Read%20on%20Medium-Machine%20Civilization-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Machine Civilization"></a>
+
+**Machine Civilization** is my Medium publication on AI. I use it to explain machine learning, data science and new AI developments in simple language, and to share what I learn while building projects.
+
+- Topics: AI, machine learning, data science and real-world applications of intelligent systems.
+- Goal: make complex AI ideas easy to understand and keep learning in public.
+
+---
+
 ## Certifications
 
 - Google Data Analytics Professional Certificate (Coursera)
@@ -179,5 +198,6 @@ I'm open to **Data Scientist** and **ML Engineer** roles and collaborations.
 
 - Email: muhammadhassanraza659@gmail.com
 - LinkedIn: [muhammad-hassan-raza](https://www.linkedin.com/in/muhammad-hassan-raza-999553262/)
+- Medium: [Machine Civilization](machinecivilizationmhr.blogspot.com)
 
-<p align="center"><i>Thanks for visiting. Star a repo if you like it!</i></p>
+<p align="center"><i>Thanks for visiting. Star a repo if you like it!</i><
